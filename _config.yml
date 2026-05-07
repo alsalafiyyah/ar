@@ -7,7 +7,7 @@ url: "/"
 permalink           : pretty
 markdown            : kramdown
 paginate            : 10
-paginate_path       : "/fawaid/:num/"
+paginate_path       : "/:num/"
 
 # Menu Navigation
 menu_navigation:
@@ -68,4 +68,4 @@ defaults:
       type: posts
     values:
       layout: post
-      permalink: /fawaid/:title/
+      permalink: /:title/
