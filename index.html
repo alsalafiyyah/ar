@@ -1,46 +1,33 @@
 ---
 layout: default
 ---
-    {% for post in paginator.posts %}
-        <article class="group cursor-pointer mb-10 border-b border-gray-100 dark:border-zinc-800 last:border-0">
+
+{% for post in paginator.posts %}
+    <article class="group cursor-pointer mb-10 border-b border-gray-100 dark:border-zinc-800 last:border-0 pb-10">
+        <!-- Metadata Line -->
+        <div class="flex flex-col gap-1">
             <span class="text-[10px] font-bold uppercase tracking-[0.3em] text-gray-400 group-hover:text-black dark:group-hover:text-white transition-colors">
                 {{ post.hijri }} / {{ post.date | date_to_string: "ordinal" }}
             </span>
-            <h2 class="text-4xl md:text-5xl font-black mt-4 mb-6 leading-[0.85] uppercase tracking-tighter group-hover:italic transition-all">
-                <a href="{{post.url}}">{{ post.title }}</a>
-            </h2>
-            <p class="mt-6 text-xl text-gray-600 dark:text-gray-400 leading-relaxed max-w-full">
-                {{ post.content | strip_html | truncatewords: 25 }}
-            </p>
-            <a href="{{ post.url }}" class="inline-block mt-4 border-b-2 border-black dark:border-white pb-3 font-bold uppercase text-sm tracking-widest hover:bg-black hover:text-white dark:hover:bg-white dark:hover:text-black transition-colors">
-                {{ post.scholar }}
-            </a>
-        </article>
-
-    <article class="hidden group py-4 border-b border-gray-100 dark:border-zinc-800 last:border-0">
-        <div class="grid grid-cols-1 md:grid-cols-12 gap-4 items-start">
             
-            <div class="md:col-span-3 flex flex-col gap-1">
-                <span class="text-[10px] font-black tabular-nums opacity-20 group-hover:opacity-100 transition-opacity">
-                    ENTRY NO. {{ forloop.index | prepend: '0' | slice: -2, 2 }}
-                </span>
-                <span class="text-[10px] font-black uppercase tracking-widest text-gray-400">
-                    {{ post.hijri }} / {{ post.date | date_to_string: "ordinal" }}
-                </span>
-            </div>
-
-            <div class="md:col-span-9">
-                <h3 class="text-3xl md:text-5xl font-black uppercase tracking-tighter leading-[0.85] group-hover:italic transition-all">
-                    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-                </h3>
-                <p class="mt-6 text-sm text-gray-500 dark:text-zinc-500 leading-relaxed max-w-xl line-clamp-2">
-                    {{ post.content | strip_html | truncatewords: 25 }}
-                </p>
-            </div>
-
+            {% if post.scholar %}
+            <span class="text-[10px] font-black uppercase tracking-[0.15em] text-black dark:text-white">
+                By {{ post.scholar }}
+            </span>
+            {% endif %}
         </div>
+
+        <!-- Title -->
+        <h2 class="text-4xl md:text-5xl font-black mt-4 mb-6 leading-[0.85] uppercase tracking-tighter group-hover:italic transition-all">
+            <a href="{{post.url}}">{{ post.title }}</a>
+        </h2>
+
+        <!-- Excerpt -->
+        <p class="mt-6 text-xl text-gray-600 dark:text-gray-400 leading-relaxed max-w-full">
+            {{ post.content | strip_html | truncatewords: 25 }}
+        </p>
     </article>
-    {% endfor %}
+{% endfor %}
 
 {% if paginator.total_pages > 1 %}
 <nav class="flex items-center justify-between border-t-4 border-black dark:border-white pt-12 mt-12 mb-24 transition-colors">
