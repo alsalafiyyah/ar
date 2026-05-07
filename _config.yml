@@ -10,7 +10,7 @@ paginate            : 20
 paginate_path       : "/:num/"
 
 # Navigation
-navigation:
+menu_navigation:
   - title: Home
     url: /
   - title: Fatwas
@@ -19,9 +19,17 @@ navigation:
     url: /audios/
   - title: Videos
     url: /videos/
-  - title: al-Qur'an
-    url: /quran/
+  - title: "al-Qur'an"
+    url: "/quran/"
 
+# Navigation
+footer_navigation:
+  - title: Instagram
+    url: "https://instagram.com/alsalafiyyah"
+  - title: About
+    url: /about/
+  - title: RSS
+    url: /feed/
 
 # Build settings
 remote_theme: alsalafiyyah/alsalafiyyah.github.io
