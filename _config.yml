@@ -9,20 +9,20 @@ markdown            : kramdown
 paginate            : 20
 paginate_path       : "/:num/"
 
-# Navigation
+# Menu Navigation
 menu_navigation:
-  - title: Home
-    url: /
   - title: Fatwas
     url: /fatwas/
   - title: Audios
     url: /audios/
   - title: Videos
     url: /videos/
+  - title: Muqolat
+    url: /muqolat/
   - title: "al-Qur'an"
     url: "/quran/"
 
-# Navigation
+# Footer Navigation
 footer_navigation:
   - title: Instagram
     url: "https://instagram.com/alsalafiyyah"
