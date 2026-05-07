@@ -4,3 +4,30 @@ title: Search
 active: search
 permalink: /search/
 ---
+
+<header class="border-b-4 border-black dark:border-white pb-12 mb-12">
+    <div class="flex items-center gap-4 text-[10px] font-black uppercase tracking-[0.3em] text-gray-400 mb-4">
+        <span>Query Results</span>
+        <span class="text-black dark:text-white">/</span>
+        <span id="result-count" class="tabular-nums">00</span>
+    </div>
+    <h1 class="text-3xl md:text-[3vw] font-black uppercase tracking-tighter serif leading-none">
+        “<span id="search-term-display" class="italic">...</span>”
+    </h1>
+</header>
+
+<div id="searchResults" class="space-y-0"></div>
+
+<nav id="paginationNav" class="flex items-center justify-between border-t-4 border-black dark:border-white pt-12 mt-12 mb-24"></nav>
+
+<div id="allPosts" style="display:none;">
+  {% for post in site.posts %}
+  <div class="post-template"
+       data-title="{{ post.title | escape }}"
+       data-content="{{ post.content | strip_html | normalize_whitespace | escape }}"
+       data-url="{{ post.url | relative_url }}"
+       data-hijri="{{ post.hijri }}">
+  </div>
+  {% endfor %}
+</div>
+
