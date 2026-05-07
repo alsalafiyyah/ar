@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "The True Measure of a Caller to Allah"
 date: 2026-05-07
 hijri: "20 Dhu al-Qidah 1447 AH"
