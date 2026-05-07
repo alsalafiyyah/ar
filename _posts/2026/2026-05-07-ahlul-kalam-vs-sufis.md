@@ -5,7 +5,7 @@ date: 2026-05-07
 hijri: "20 Dhu al-Qidah 1447 AH"
 scholar: "Imam Ibn Aqil"
 source: "Tablis Iblees by Ibn Al-Jawzi pg.416"
-category: [ibn-aqil, sufis, ahlul-kalam]
+category: sufis, ahlul-kalam]
 summary: "Ahlul-Kalam corrupt the creeds of the people with the illusions of intellectual doubts; whereas the Sufis corrupt the deeds"
 ---
 

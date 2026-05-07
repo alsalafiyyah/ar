@@ -49,7 +49,7 @@ site_elements:
   classified_under: "Classified Under"
   taken_from: "Taken From"
   search: "Search"
-  select_category: "Select Scholar"
+  select_category: "Select Category"
   scholars: "Scholars"
   scholar: "Scholar"
 
