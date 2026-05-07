@@ -9,28 +9,6 @@ markdown            : kramdown
 paginate            : 10
 paginate_path       : "/:num/"
 
-# Menu Navigation
-menu_navigation:
-  - title: Fatwas
-    url: /fatwas/
-  - title: Audios
-    url: /audios/
-  - title: Videos
-    url: /videos/
-  - title: Muqolat
-    url: /muqolat/
-  - title: "al-Qur'an"
-    url: "/quran/"
-
-# Footer Navigation
-footer_navigation:
-  - title: Instagram
-    url: "https://instagram.com/alsalafiyyah"
-  - title: About
-    url: /about/
-  - title: RSS
-    url: /feed/
-
 # Build settings
 remote_theme: alsalafiyyah/alsalafiyyah.github.io
 plugins:
