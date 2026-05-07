@@ -3,11 +3,25 @@ email: alsalafiyyah@icloud.com
 description: >- # this means to ignore newlines until "baseurl:"
   Saying of the Salaf and scholars
 baseurl: "/fawaid" 
-url: "/fawaid" 
+url: "/" 
 permalink           : pretty
 markdown            : kramdown
 paginate            : 20
 paginate_path       : "/:num/"
+
+# Navigation
+navigation:
+  - title: Home
+    url: /
+  - title: Fatwas
+    url: /fatwas/
+  - title: Audios
+    url: /audios/
+  - title: Videos
+    url: /videos/
+  - title: al-Qur'an
+    url: /quran/
+
 
 # Build settings
 remote_theme: alsalafiyyah/alsalafiyyah.github.io
