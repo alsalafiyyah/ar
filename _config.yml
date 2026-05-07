@@ -7,7 +7,7 @@ url: ""
 permalink           : pretty
 markdown            : kramdown
 paginate            : 20
-paginate_path       : "/fatwas/:num/"
+paginate_path       : "/:num/"
 
 # Build settings
 remote_theme: alsalafiyyah/alsalafiyyah.github.io
