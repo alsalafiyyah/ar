@@ -91,3 +91,13 @@ defaults:
     values:
       layout: post
       permalink: /:title/
+  # _categories
+  - scope:
+      path: "_categories"
+    values:
+      layout: "category"
+      permalink: /cat/:title/ 
+
+collections:
+  categories:
+    output: true
