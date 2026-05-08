@@ -99,5 +99,5 @@ defaults:
       permalink: /category/:title/ 
 
 collections:
-  category:
+  categories:
     output: true
