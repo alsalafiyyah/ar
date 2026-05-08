@@ -96,7 +96,7 @@ defaults:
       path: "_categories"
     values:
       layout: "category"
-      permalink: /cat/:title/ 
+      permalink: /category/:title/ 
 
 collections:
   categories:
