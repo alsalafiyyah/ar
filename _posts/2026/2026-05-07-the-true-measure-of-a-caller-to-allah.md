@@ -5,7 +5,7 @@ date: 2026-05-07
 hijri: "20 Dhu al-Qidah 1447 AH"
 scholar: "Shaykh Muqbil ibn Hadi al-Wadi'i"
 source: "Tuhfatul Mujib Ala As-ilatil Hadhir wal Ghorib"
-catefory: [dawah]
+category: [dawah]
 summary: "The calamity with which the Muslims have been afflicted is their ignorance of their religion."
 ---
 
