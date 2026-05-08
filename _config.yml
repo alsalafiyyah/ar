@@ -83,6 +83,10 @@ plugins:
 include:
   - _pages
 
+collections:
+  categories:
+    output: true
+
 defaults:
   # _posts
   - scope:
@@ -94,10 +98,8 @@ defaults:
   # _categories
   - scope:
       path: "_categories"
+      type: "categories"
     values:
       layout: "category"
       permalink: /category/:title/ 
 
-collections:
-  _categories:
-    output: true
