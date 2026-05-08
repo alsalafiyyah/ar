@@ -5,6 +5,7 @@ date: 2026-05-07
 hijri: "20 Dhu al-Qidah 1447 AH"
 scholar: "Imam Ibn al-Qayyim"
 source: "Miftah Dar as-Saadah 1/99"
+category: [trials]
 summary: "Whoever is presented with the truth and rejects it, refusing to accept it, shall be punished with the corruption of their heart, their intellect, and their judgment."
 ---
 
