@@ -1,0 +1,63 @@
+---
+layout: default
+---
+
+{% for post in paginator.posts %}
+    <article dir="{{ site.site_elements.dir }}" class="group cursor-pointer mb-10 border-b border-gray-100 dark:border-zinc-800 last:border-0 pb-10">
+        <!-- Metadata Line -->
+        <div class="flex flex-col gap-1">
+            <span class="text-[10px] font-bold uppercase tracking-[0.3em] text-gray-400 group-hover:text-black dark:group-hover:text-white transition-colors">
+                {{ post.hijri }} / {{ post.date | date_to_string: "ordinal" }}
+            </span>
+            
+            {% if post.scholar %}
+            <span class="text-[10px] font-black uppercase tracking-[0.15em] text-black dark:text-white">
+              {{ post.scholar }}
+            </span>
+            {% endif %}
+        </div>
+
+        <!-- Title -->
+        <h2 class="text-4xl md:text-5xl font-black mt-4 mb-6 leading-[0.85] uppercase tracking-tighter group-hover:italic transition-all">
+            <a href="{{post.url | relative_url}}">{{ post.title }}</a>
+        </h2>
+
+        <!-- Excerpt -->
+        <p class="mt-6 text-xl text-gray-600 dark:text-gray-400 leading-relaxed max-w-full">
+            {{ post.content | strip_html | truncatewords: 25 }}
+        </p>
+    </article>
+{% endfor %}
+
+{% if paginator.total_pages > 1 %}
+<nav class="flex items-center justify-between border-t-4 border-black dark:border-white pt-12 mt-12 mb-24 transition-colors">
+    
+    {% if paginator.previous_page %}
+        <a href="{{ paginator.previous_page_path | relative_url }}" class="text-sm font-black uppercase tracking-widest hover:line-through">
+          ← {{ site.site_elements.prev }} 
+        </a>
+    {% else %}
+        <span class="text-sm font-black uppercase tracking-widest opacity-10 cursor-not-allowed">
+           ← {{ site.site_elements.prev }} 
+        </span>
+    {% endif %}
+
+    <div class="text-sm font-black uppercase tracking-widest tabular-nums">
+        <span>
+            {{ paginator.page | prepend: '0' | slice: -2, 2 }} / 
+            {{ paginator.total_pages | prepend: '0' | slice: -2, 2 }}
+        </span> 
+    </div>
+
+    {% if paginator.next_page %}
+        <a href="{{ paginator.next_page_path | relative_url }}" class="text-sm font-black uppercase tracking-widest hover:line-through">
+            {{ site.site_elements.next }} ←
+        </a>
+    {% else %}
+        <span class="text-sm font-black uppercase tracking-widest opacity-10 cursor-not-allowed">
+            {{ site.site_elements.next }} ←
+        </span>
+    {% endif %}
+    
+</nav>
+{% endif %}

@@ -6,7 +6,7 @@ baseurl: "/ar"
 url: "/" 
 markdown            : kramdown
 paginate            : 4
-paginate_path       : "/:num/"
+paginate_path       : "/fatwas/:num/"
 
 categories_select: false
 
