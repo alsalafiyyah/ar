@@ -34,11 +34,11 @@ layout: default
     
     {% if paginator.previous_page %}
         <a href="{{ paginator.previous_page_path | relative_url }}" class="text-sm font-black uppercase tracking-widest hover:line-through">
-           ← {{ site.site_elements.prev }}
+           {{ site.site_elements.prev }} ← 
         </a>
     {% else %}
         <span class="text-sm font-black uppercase tracking-widest opacity-10 cursor-not-allowed">
-            ← {{ site.site_elements.prev }}
+            {{ site.site_elements.prev }} ← 
         </span>
     {% endif %}
 
