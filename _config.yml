@@ -8,6 +8,8 @@ markdown            : kramdown
 paginate            : 4
 paginate_path       : "/:num/"
 
+categories_select: false
+
 # Menu Navigation
 menu_navigation:
   - title: "فتاوى"
