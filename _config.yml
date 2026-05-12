@@ -61,6 +61,7 @@ site_elements:
   dir: "rtl"
   lang: "ar"
   telegram: "تليجرام"
+  translation: "Read in English"
 
 # Build settings
 remote_theme: alsalafiyyah/alsalafiyyah.github.io
