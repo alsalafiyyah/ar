@@ -57,7 +57,7 @@ site_elements:
   most_read: "الأكثر قراءة"
   home: "الرئيسية"
   subscribe_newsletter: "اشترك في نشرتنا البريدية"
-  direction: "rtl"
+  dir: "rtl"
 
 # Build settings
 remote_theme: alsalafiyyah/alsalafiyyah.github.io
