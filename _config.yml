@@ -13,11 +13,11 @@ categories_select: false
 # Menu Navigation
 menu_navigation:
   - title: "فتاوى"
-    url: "https://alsalafiyyah.github.io/fatwas/"
+    url: "/fatwas/"
   - title: "صوتيات"
-    url: "https://alsalafiyyah.github.io/audios/"
+    url: "/audios/"
   - title: "مرئيات"
-    url: "https://alsalafiyyah.github.io/videos/"
+    url: "/videos/"
   - title: "مقالات"
     url: "https://alsalafiyyah.github.io/muqolat/"
   - title: "القرآن الكريم"
