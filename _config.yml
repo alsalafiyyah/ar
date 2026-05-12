@@ -58,6 +58,7 @@ site_elements:
   home: "الرئيسية"
   subscribe_newsletter: "اشترك في نشرتنا البريدية"
   dir: "rtl"
+  lang: "ar"
 
 # Build settings
 remote_theme: alsalafiyyah/alsalafiyyah.github.io
