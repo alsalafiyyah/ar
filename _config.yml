@@ -1,8 +1,8 @@
-title: "Alsalafiyyah"
+title: "السلفية"
 email: alsalafiyyah@icloud.com
 description: >- # this means to ignore newlines until "baseurl:"
   Saying of the Salaf and scholars
-baseurl: "/fawaid" 
+baseurl: "/ar" 
 url: "/" 
 permalink           : pretty
 markdown            : kramdown
