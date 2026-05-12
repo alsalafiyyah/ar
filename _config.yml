@@ -4,7 +4,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   Saying of the Salaf and scholars
 baseurl: "/ar" 
 url: "/" 
-permalink           : pretty
 markdown            : kramdown
 paginate            : 4
 paginate_path       : "/:num/"
@@ -110,3 +109,4 @@ defaults:
       layout: "category"
       permalink: /category/:title/ 
 
+permalink: pretty
