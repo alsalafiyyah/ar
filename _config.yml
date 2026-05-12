@@ -17,7 +17,7 @@ menu_navigation:
     url: "https://alsalafiyyah.github.io/audios/"
   - title: "مرئيات"
     url: "https://alsalafiyyah.github.io/videos/"
-  - title: "مقلات"
+  - title: "مقالات"
     url: "https://alsalafiyyah.github.io/muqolat/"
   - title: "القرآن الكريم"
     url: "https://alsalafiyyah.github.io/quran/"
@@ -33,7 +33,7 @@ footer_navigation:
 
 # Site Elements
 site_elements:
-  published: "Published"
+  published: "تاريخ النشر"
   next: "التالي"
   prev: "السابق"
   last_modified: "Last Modified"
@@ -52,7 +52,11 @@ site_elements:
   select_category: "Select Category"
   scholars: "العلماء"
   scholar: "العلماء"
-  slogan: "منهج السلف الصالح"
+  footer_slogan: "منهج السلف الصالح"
+  related_fatwas: "فتاوى ذات صلة"
+  most_read: "الأكثر قراءة"
+  home: "الرئيسية"
+  subscribe_newsletter: "اشترك في نشرتنا البريدية"
 
 # Build settings
 remote_theme: alsalafiyyah/alsalafiyyah.github.io
