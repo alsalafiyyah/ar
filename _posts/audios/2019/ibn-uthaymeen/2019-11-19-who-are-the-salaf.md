@@ -2,7 +2,7 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2019-11-19
-hijri: "Rabi' Al-Awwal 22, 1442 AH"
+hijri: "22 ربيع الأول 1442 هـ"
 title: "من هم السلف ؟"
 source: "فتاوى نور على الدرب / الشريط رقم [175]"
 url: "https://binothaimeen.net/s/gmkXp3oG"
