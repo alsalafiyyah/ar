@@ -11,22 +11,22 @@ paginate_path       : "/:num/"
 
 # Menu Navigation
 menu_navigation:
-  - title: Fatwas
+  - title: "فتاوى"
     url: "https://alsalafiyyah.github.io/fatwas/"
-  - title: Audios
+  - title: "صوتيات"
     url: "https://alsalafiyyah.github.io/audios/"
-  - title: Videos
+  - title: "مرئيات"
     url: "https://alsalafiyyah.github.io/videos/"
-  - title: Muqolat
+  - title: "مقلات"
     url: "https://alsalafiyyah.github.io/muqolat/"
-  - title: "al-Qur'an"
+  - title: "القرآن الكريم"
     url: "https://alsalafiyyah.github.io/quran/"
 
 # Footer Navigation
 footer_navigation:
-  - title: Instagram
+  - title: "انستقرام"
     url: "https://instagram.com/alsalafiyyah"
-  - title: About
+  - title: "حول الموقع"
     url: "https://alsalafiyyah.github.io/about/"
   - title: RSS
     url: "https://alsalafiyyah.github.io/feed/"
