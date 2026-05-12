@@ -18,8 +18,6 @@ menu_navigation:
     url: "/audios/"
   - title: "مرئيات"
     url: "/videos/"
-  - title: "مقالات"
-    url: "https://alsalafiyyah.github.io/muqolat/"
   - title: "القرآن الكريم"
     url: "https://alsalafiyyah.github.io/quran/"
 
