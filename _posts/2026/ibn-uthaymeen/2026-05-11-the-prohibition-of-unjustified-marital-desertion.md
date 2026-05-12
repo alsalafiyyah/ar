@@ -6,6 +6,7 @@ title: "حكم هجر الرجل لزوجته دون سبب"
 hijri: "22 ذو القعدة 1447  هـ"
 date: 2026-05-11
 active: videos
+translation: true
 summary: "أما إذا كانت المرأة قد قامت بالواجب فإن هجر الزوج لها محرم"
 videoURL: "https://youtu.be/KA3IODk0KP8"
 videoID: "KA3IODk0KP8"
