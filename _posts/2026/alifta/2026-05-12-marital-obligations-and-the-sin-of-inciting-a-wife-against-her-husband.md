@@ -4,7 +4,7 @@ title: "الحقوق والواجبات الزوجية وإثم تحريض ال�
 date: 2026-05-12
 hijri: "24 Dhu al-Qidah 1447 AH"
 source: "فتاوى اللجنة الدائمة 19 /383-384 الفتوى رقم (10726)"
-summary: "Ahlul-Kalam corrupt the creeds of the people with the illusions of intellectual doubts; whereas the Sufis corrupt the deeds"
+summary: "يجب على الزوجة الاستجابة إذا دعاها زوجها إلى فراشه، ويحرم عليها الامتناع إلا بعذر شرعي
 ---
 
 ### السؤال: 
