@@ -9,6 +9,7 @@ url: "https://binothaimeen.net/s/gmkXp3oG"
 mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_175_18.mp3"
 active: audios
 featured: true
+translation: true
 lang: ar
 summary: "السلف معناه المتقدمون، فكل متقدم على غيره فهو سلف له، ولكن إذا أطلق لفظ السلف فالمراد به القرون الثلاثة المفضلة: الصحابة، والتابعون، وتابعوهم، هؤلاء هم السلف الصالح"
 muftis:
