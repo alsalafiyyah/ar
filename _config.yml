@@ -38,13 +38,13 @@ site_elements:
   last_modified: "Last Modified"
   share: "مشاركة"
   source: "المصدر"
-  categories: "Categories"
-  translator: "Translator"
-  latest_posts: "Latest Insights"
-  selected_post: "Selected Fatwas"
+  categories: "التصنيفات"
+  translator: "مترجم"
+  latest_posts: "أحدث الفتاوى"
+  selected_post: "الفتاوى المختارة"
   recent_posts: "Recent Fatwas"
   read_more: "Read"
-  view_all_posts: "تصفح الكل"
+  view_all_posts: "تصفح الفتاوى"
   classified_under: "Classified Under"
   taken_from: "Taken From"
   search: "بحث"
@@ -58,6 +58,7 @@ site_elements:
   subscribe_newsletter: "اشترك في نشرتنا البريدية"
   dir: "rtl"
   lang: "ar"
+  telegram: "تليجرام"
 
 # Build settings
 remote_theme: alsalafiyyah/alsalafiyyah.github.io
