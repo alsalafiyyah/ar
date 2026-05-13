@@ -13,10 +13,7 @@ summary: "هذا قد تشبه بأعداء الله الكفرة، كما قا�
 videoURL: "https://youtu.be/tNUYJ0s2yas"
 videoID: "tNUYJ0s2yas"
 source: "فتاوى نور على الدرب 21/ 439-440"
-muftis:
-  shaykh: 
-    - name: "الشيخ ابن باز"
-      url: "/biography/binbaz/"
+mufti: "الشيخ ابن باز رحمه الله"
 ---
 
 ### السؤال: 
