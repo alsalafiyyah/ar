@@ -62,7 +62,8 @@ site_elements:
   translation: "Read in English"
   contact_us: "تواصل معنا"
   privacy_policy: "سياسة الخصوصية"
-  toc: "الشروط والأحكام"
+  tos: "الشروط والأحكام"
+  all_rights_reserved: "جميع الحقوق محفوظة"
 
 # Build settings
 remote_theme: alsalafiyyah/alsalafiyyah.github.io
