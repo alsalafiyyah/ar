@@ -8,7 +8,7 @@ markdown            : kramdown
 paginate            : 4
 paginate_path       : "/fatwas/:num/"
 
-categories_select: false
+categories_select: true
 
 # Menu Navigation
 menu_navigation:
