@@ -5,7 +5,7 @@ date: 2026-05-12
 hijri: "24  ذو القعدة 1447 هـ"
 title: "زوجته لا تصلي ولا تطيعه فهل يطلقها ؟"
 source: "فتاوى نور على الدرب / ش: [8]"
-category: [صوتيات]
+category: [النكاح, الطلاق, المرأة, صوتيات]
 link: "https://binothaimeen.net/s/R1yxRXdu"
 mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_008_02.mp3"
 summary: "إذا كانت زوجتك لا تصلي وتدع الصلاة ومصرة على ترك الصلاة فإنها كافرة والعياذ بالله."

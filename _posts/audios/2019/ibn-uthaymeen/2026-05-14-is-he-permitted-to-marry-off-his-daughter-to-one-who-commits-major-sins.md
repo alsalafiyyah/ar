@@ -4,7 +4,7 @@ publisher: alsalafiyyah@icloud.com
 date: 2026-05-14
 title: "هل له أن يزوج ابنته من فاعل الكبيرة"
 source: "فتاوى نور على الدرب / الشريط رقم [157 ]"
-category: [النكاح, الطلاق]
+category: [النكاح, الطلاق, المرأة, صوتيات]
 link: "https://binothaimeen.net/s/wcvKCWXV"
 mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_157_09.mp3"
 summary: "لا يجوز لك أن تزوج ابنتك لرجل زان حتى تظهر توبته من الزنى وتستقيم"
