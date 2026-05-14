@@ -60,6 +60,9 @@ site_elements:
   lang: "ar"
   telegram: "تليجرام"
   translation: "Read in English"
+  contact_us: "تواصل معنا"
+  privacy_policy: "سياسة الخصوصية"
+  toc: "الشروط والأحكام"
 
 # Build settings
 remote_theme: alsalafiyyah/alsalafiyyah.github.io
