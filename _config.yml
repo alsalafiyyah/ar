@@ -64,6 +64,8 @@ site_elements:
   privacy_policy: "سياسة الخصوصية"
   tos: "الشروط والأحكام"
   all_rights_reserved: "جميع الحقوق محفوظة"
+  no_entries_found: "لا توجد بيانات"
+  search_results: "نتائج البحث"
 
 # Build settings
 remote_theme: alsalafiyyah/alsalafiyyah.github.io
