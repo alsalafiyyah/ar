@@ -67,6 +67,8 @@ site_elements:
   no_entries_found: "لا توجد بيانات"
   search_results: "نتائج البحث"
   all_entries: "جميع المشاركات"
+  page_not_found: "الصفحة غير موجودة"
+  page_not_found_text: "الصفحة التي طلبتها غير موجودة"
 
 # Build settings
 remote_theme: alsalafiyyah/alsalafiyyah.github.io
