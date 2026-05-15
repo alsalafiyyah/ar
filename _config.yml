@@ -66,6 +66,7 @@ site_elements:
   all_rights_reserved: "جميع الحقوق محفوظة"
   no_entries_found: "لا توجد بيانات"
   search_results: "نتائج البحث"
+  all_entries: "جميع المشاركات"
 
 # Build settings
 remote_theme: alsalafiyyah/alsalafiyyah.github.io
