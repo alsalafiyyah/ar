@@ -3,7 +3,7 @@ layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-05-14
 title: "هل الخضر عليه السلام حي إلى يومنا هذا ؟"
-source: "فتاوى نور على الدرب / الشريط رقم [299]"
+source: "فتاوى نور على الدرب / الشريط رقم [340]"
 category: [صوتيات]
 link: "https://binothaimeen.net/s/fXbOoBvj"
 mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_340_04.mp3"
