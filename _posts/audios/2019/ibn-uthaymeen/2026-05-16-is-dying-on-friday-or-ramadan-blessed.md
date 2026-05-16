@@ -3,7 +3,7 @@ layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-05-14
 title: " هل موت في رمضان أو يوم الجمعة لا يعذب عذاب  القبر؟"
-source: "فتاوى نور على الدرب / الشريط رقم [207 ]"
+source: "فتاوى نور على الدرب / الشريط رقم [207]"
 category: [صوتيات, الجنائز]
 link: "https://binothaimeen.net/s/QcfijNfE"
 mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_207_14.mp3"
