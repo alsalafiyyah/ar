@@ -2,7 +2,7 @@
 layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-05-14
-title: " هل موت في رمضان أو يوم الجمعة لا يعذب عذاب  القبر؟"
+title: "هل يتألم المؤمن عند نزع روحه ؟"
 source: "فتاوى نور على الدرب / الشريط رقم [339]"
 category: [صوتيات, الجنائز]
 link: "https://binothaimeen.net/s/cTOCfMws"
