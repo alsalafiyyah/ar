@@ -7,7 +7,7 @@ source: "فتاوى نور على الدرب / الشريط رقم [340]"
 category: [صوتيات]
 link: "https://binothaimeen.net/s/fXbOoBvj"
 mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_340_04.mp3"
-summary: "هذا الحديث الذي ورد في فضل الموت يوم الجمعة ليس بصحيح؛ لأن الإنسان إنما يثاب على عمل فعله بنفسه وكان له فيه اختيار"
+summary: "ما كونه حياً فلا ليس بحي؛ لأنه لو كان حياً لوجب عليه أن يؤمن بالرسول صلى الله عليه وعلى آله وسلم وأن يجاهد معه"
 lang: ar
 translation: true
 mufti: "الشيخ ابن عثيمين رحمه الله"
