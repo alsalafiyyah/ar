@@ -5,8 +5,8 @@ date: 2026-05-14
 title: "هل الخضر عليه السلام حي إلى يومنا هذا ؟"
 source: "فتاوى نور على الدرب / الشريط رقم [299]"
 category: [صوتيات]
-link: "https://binothaimeen.net/s/LrFojahf"
-mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_299_18.mp3"
+link: "https://binothaimeen.net/s/fXbOoBvj"
+mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_340_04.mp3"
 summary: "هذا الحديث الذي ورد في فضل الموت يوم الجمعة ليس بصحيح؛ لأن الإنسان إنما يثاب على عمل فعله بنفسه وكان له فيه اختيار"
 lang: ar
 translation: true
