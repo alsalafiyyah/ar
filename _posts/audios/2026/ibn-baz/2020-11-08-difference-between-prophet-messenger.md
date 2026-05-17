@@ -1,7 +1,7 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-date: 2026-05-17
+date: 2020-11-08
 title: "ما الفرق بين النبي والرسول؟"
 source: "فتاوى نور على الدرب / الشريط رقم [467]"
 category: [صوتيات]
