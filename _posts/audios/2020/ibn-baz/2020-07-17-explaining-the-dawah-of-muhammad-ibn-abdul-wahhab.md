@@ -1,6 +1,7 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
+published: true
 date: 2020-07-17
 title: "التعريف بدعوة الشيخ محمد بن عبد الوهاب رحمه الله"
 source: "فتاوى نور على الدرب / الشريط رقم [216]"
