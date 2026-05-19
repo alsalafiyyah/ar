@@ -3,11 +3,11 @@ layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-05-18
 title: "ماذا تقرأ المرأة من قرآن وأذكار عند الولادة؟"
-source: "فتاوى نور على الدرب / الشريط رقم [216]"
+source: "لقاء الباب المفتوح [143]"
 category: [صوتيات, المرأة]
 link: "https://binothaimeen.net/s/AzlquDnY"
 mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/od_143_02.mp3"
-summary: "هذا العمل بدعة لم يكن في عهد الرسول عليه الصلاة والسلام أن يعتاد زيارة القبور في يوم العيد"
+summary: "والله لا أرى نصيحة نوجهها للتي أخذها الطلق إلا أن تعلق قلبها بالله عز وجل وتلجأ إليه وتسأله التنفيس لها ولاسيما إذا اشتد بها الطلق"
 lang: ar
 translation: true
 mufti: "الشيخ ابن عثيمين رحمه الله"
