@@ -1,7 +1,7 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-date: 2026-05-17
+date: 2026-05-18
 title: "ماذا تقرأ المرأة من قرآن وأذكار عند الولادة؟"
 source: "فتاوى نور على الدرب / الشريط رقم [216]"
 category: [صوتيات, المرأة]
