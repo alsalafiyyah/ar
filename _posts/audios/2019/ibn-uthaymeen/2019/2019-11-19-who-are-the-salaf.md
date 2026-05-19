@@ -12,6 +12,7 @@ active: audios
 featured: true
 translation: true
 lang: ar
+permalink: /audios/who-are-the-salaf
 summary: "السلف معناه المتقدمون، فكل متقدم على غيره فهو سلف له، ولكن إذا أطلق لفظ السلف فالمراد به القرون الثلاثة المفضلة: الصحابة، والتابعون، وتابعوهم، هؤلاء هم السلف الصالح"
 mufti: "الشيخ ابن عثيمين رحمه الله"
 ---
