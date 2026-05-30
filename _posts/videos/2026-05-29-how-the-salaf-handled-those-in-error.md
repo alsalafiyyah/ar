@@ -1,13 +1,14 @@
 ---
 layout: post
-published: false
+published: true
 publisher: alsalafiyyah@icloud.com
-title: ""
+title: "رد على منهج أكابر غلاة التجريح"
 date: 2026-05-29
 active: videos
 translation: true
 lang: ar
 tags: [salih-ibn-fawzan]
+category: [المنهج]
 summary: "هذا ليس من منهج السلف الصالح ليس من منهج السلف الصالح"
 videoURL: "https://youtu.be/ZCJVxXRZEmY"
 videoID: "ZCJVxXRZEmY"
