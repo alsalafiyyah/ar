@@ -4,7 +4,8 @@ publisher: alsalafiyyah@icloud.com
 date: 2019-11-19
 title: "حكم تسمية المنهج السلفي بالمنهج التلفي"
 source: "لقاء الباب المفتوح [٢٣٥]"
-category: [صوتيات, الجنائز]
+category: [صوتيات, المنهج]
+tags: [ibn-uthaymeen]
 link: "https://binothaimeen.net/s/Wb4zEmcB"
 mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/od_235_12.mp3"
 summary: "حكمه أنه هو التالف، وأنت لا تستغرب -يا أخي- أن يلقب أهل الخير بألقاب السوء"
