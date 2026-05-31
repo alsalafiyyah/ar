@@ -8,6 +8,7 @@ source: "فتاوى نور على الدرب / الشريط رقم [175]"
 url: "https://binothaimeen.net/s/gmkXp3oG"
 mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_175_18.mp3"
 category: [صوتيات, المنهج]
+tags: [ibn-uthaymeen]
 active: audios
 featured: true
 translation: true
