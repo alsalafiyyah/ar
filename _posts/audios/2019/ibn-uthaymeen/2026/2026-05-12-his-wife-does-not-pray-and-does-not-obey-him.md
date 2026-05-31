@@ -11,6 +11,7 @@ mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_008_02.mp3"
 summary: "إذا كانت زوجتك لا تصلي وتدع الصلاة ومصرة على ترك الصلاة فإنها كافرة والعياذ بالله."
 lang: ar
 translation: true
+tags: [ibn-uthaymeen]
 mufti: "الشيخ ابن عثيمين رحمه الله"
 ---
 
