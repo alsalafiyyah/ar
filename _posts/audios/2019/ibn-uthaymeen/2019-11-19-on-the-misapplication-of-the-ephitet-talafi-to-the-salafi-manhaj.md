@@ -3,13 +3,12 @@ layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-05-12
 hijri: "24  ذو القعدة 1447 هـ"
-title: "زوجته لا تصلي ولا تطيعه فهل يطلقها ؟"
-source: "فتاوى نور على الدرب / ش: [8]"
+title: "حكم تسمية المنهج السلفي بالمنهج التلفي"
 category: [صوتيات، المنهج]
 tags: [ibn-uthaymeen]
 link: "https://binothaimeen.net/s/R1yxRXdu"
 mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_008_02.mp3"
-summary: ""
+summary: "حكمه أنه هو التالف، وأنت لا تستغرب -يا أخي- أن يلقب أهل الخير بألقاب السوء"
 lang: ar
 translation: true
 mufti: "الشيخ ابن عثيمين رحمه الله"
