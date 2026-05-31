@@ -27,7 +27,7 @@ footer_navigation:
     url: "https://instagram.com/alsalafiyyah"
   - title: "عن الموقع"
     url: "https://alsalafiyyah.github.io/about/"
-  - title: English
+  - title: "English"
     url: "https://alsalafiyyah.github.io/"
 
 # Site Elements
@@ -104,6 +104,8 @@ include:
 collections:
   categories:
     output: true
+  tag:
+    output: true
 
 defaults:
   # _posts
@@ -136,5 +138,12 @@ defaults:
     values:
       layout: "category"
       permalink: /category/:title/ 
+  # _tag
+  - scope:
+      path: "_tag"
+      type: "tag"
+    values:
+      layout: "tag"
+      permalink: /scholars/:title/
 
 permalink: pretty
