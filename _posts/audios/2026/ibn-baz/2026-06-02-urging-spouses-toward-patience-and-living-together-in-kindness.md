@@ -3,7 +3,7 @@ layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-06-02
 title: "حث الزوجين على الصبر والعشرة بالمعروف"
-source: "فتاوى نور على الدرب / الشريط رقم [467]"
+source: "التعليقات على ندوات الجامع الكبير41"
 category: [صوتيات]
 link: "https://binbaz.org.sa/audios/916/%D8%AD%D8%AB-%D8%A7%D9%84%D8%B2%D9%88%D8%AC%D9%8A%D9%86-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B5%D8%A8%D8%B1-%D9%88%D8%A7%D9%84%D8%B9%D8%B4%D8%B1%D8%A9-%D8%A8%D8%A7%D9%84%D9%85%D8%B9%D8%B1%D9%88%D9%81"
 mp3: "https://files.zadapps.info/binbaz.org.sa/sawtyaat/dros%26mohadrat/ta3lqat_%20jame3_kabeer/hath_zawjeen_sabr.mp3"
