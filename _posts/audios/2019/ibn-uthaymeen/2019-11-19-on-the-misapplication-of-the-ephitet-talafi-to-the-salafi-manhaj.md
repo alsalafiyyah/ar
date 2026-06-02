@@ -11,6 +11,7 @@ mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/od_235_12.mp3"
 summary: "حكمه أنه هو التالف، وأنت لا تستغرب -يا أخي- أن يلقب أهل الخير بألقاب السوء"
 lang: ar
 translation: true
+tags: [ibn-uthaymeen]
 mufti: "الشيخ ابن عثيمين رحمه الله"
 ---
 

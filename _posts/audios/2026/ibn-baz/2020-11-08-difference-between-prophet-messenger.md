@@ -10,6 +10,7 @@ mp3: "https://files.zadapps.info/binbaz.org.sa/fatawa/nour_3la_aldarb/nour_467/4
 summary: "المشهور عند العلماء: أن النبي: هو الذي يوحى إليه بشرع، ولكن لا يؤمر بتبليغ الناس، يوحى إليه يفعل كذا، ويفعل كذا، يصلي كذا، يصوم كذا، لكن لا يؤمر بالتبليغ، فهذا يقال له: نبي."
 lang: ar
 translation: true
+tags: [ibn-baz]
 mufti: "الشيخ ابن باز رحمه الله"
 ---
 

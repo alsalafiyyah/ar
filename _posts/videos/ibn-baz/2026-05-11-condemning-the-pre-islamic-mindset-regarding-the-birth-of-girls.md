@@ -9,6 +9,7 @@ active: videos
 lang: ar
 translation: true
 category: [فيديو]
+tags: [ibn-baz]
 summary: "هذا قد تشبه بأعداء الله الكفرة، كما قال الله جل وعلا: وَإِذَا بُشِّرَ أَحَدُهُمْ بِالأُنثَى ظَلَّ وَجْهُهُ مُسْوَدًّا وَهُوَ كَظِيمٌ"
 videoURL: "https://youtu.be/tNUYJ0s2yas"
 videoID: "tNUYJ0s2yas"

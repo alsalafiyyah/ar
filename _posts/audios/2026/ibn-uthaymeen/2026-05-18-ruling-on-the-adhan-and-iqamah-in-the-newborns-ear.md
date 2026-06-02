@@ -10,6 +10,7 @@ mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/od_060_13.mp3"
 summary: "أولاً لابد أن نسأل: هل هذا من الأمور المشروعة أم لا؟ لأن الأحاديث الواردة في ذلك ليست بتلك القوة، لاسيما الإقامة"
 lang: ar
 translation: true
+tags: [ibn-uthaymeen]
 mufti: "الشيخ ابن عثيمين رحمه الله"
 ---
 

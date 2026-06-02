@@ -9,6 +9,7 @@ link: "https://binothaimeen.net/s/sLtvNkRY"
 mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_331_23.mp3"
 summary: "هذا الكلام باطلٌ؛ فإن محمداً صلى الله عليه وسلم من بني آدم، وسلسلة آبائه وأجداده معلومة، وهو نفسه عليه الصلاة والسلام قد صرح بما أمر الله به"
 lang: ar
+tags: [ibn-uthaymeen]
 translation: true
 mufti: "الشيخ ابن عثيمين رحمه الله"
 ---

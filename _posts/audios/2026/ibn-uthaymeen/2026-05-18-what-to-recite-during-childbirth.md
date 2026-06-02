@@ -10,6 +10,7 @@ mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/od_143_02.mp3"
 summary: "والله لا أرى نصيحة نوجهها للتي أخذها الطلق إلا أن تعلق قلبها بالله عز وجل وتلجأ إليه وتسأله التنفيس لها ولاسيما إذا اشتد بها الطلق"
 lang: ar
 translation: true
+tags: [ibn-uthaymeen]
 mufti: "الشيخ ابن عثيمين رحمه الله"
 ---
 

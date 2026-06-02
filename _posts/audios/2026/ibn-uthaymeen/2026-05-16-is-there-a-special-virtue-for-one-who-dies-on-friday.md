@@ -10,6 +10,7 @@ mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_299_18.mp3"
 summary: "هذا الحديث الذي ورد في فضل الموت يوم الجمعة ليس بصحيح؛ لأن الإنسان إنما يثاب على عمل فعله بنفسه وكان له فيه اختيار"
 lang: ar
 translation: true
+tags: [ibn-uthaymeen]
 mufti: "الشيخ ابن عثيمين رحمه الله"
 ---
 

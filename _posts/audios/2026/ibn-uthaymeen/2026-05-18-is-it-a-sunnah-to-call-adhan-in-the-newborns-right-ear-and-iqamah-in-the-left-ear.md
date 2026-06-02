@@ -10,6 +10,7 @@ mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/od_183_05.mp3"
 summary: "اأما الأذان فله أصل، وحديثه حسن ولا بأس به، لكن عند الولادة قبل أن يسمع أي شيء"
 lang: ar
 translation: true
+tags: [ibn-uthaymeen]
 mufti: "الشيخ ابن عثيمين رحمه الله"
 ---
 

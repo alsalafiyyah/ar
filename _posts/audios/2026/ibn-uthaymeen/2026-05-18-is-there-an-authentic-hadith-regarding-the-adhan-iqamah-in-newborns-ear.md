@@ -10,6 +10,7 @@ mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_339_23.mp3"
 summary: " أما الأحاديث الإقامة في اليسرى فإنه ضعيف، وأما حديث الأذان في أذنه اليمنى فلا بأس به"
 lang: ar
 translation: true
+tags: [ibn-uthaymeen]
 mufti: "الشيخ ابن عثيمين رحمه الله"
 ---
 

@@ -10,6 +10,7 @@ mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_340_04.mp3"
 summary: "ما كونه حياً فلا ليس بحي؛ لأنه لو كان حياً لوجب عليه أن يؤمن بالرسول صلى الله عليه وعلى آله وسلم وأن يجاهد معه"
 lang: ar
 translation: true
+tags: [ibn-uthaymeen]
 mufti: "الشيخ ابن عثيمين رحمه الله"
 ---
 

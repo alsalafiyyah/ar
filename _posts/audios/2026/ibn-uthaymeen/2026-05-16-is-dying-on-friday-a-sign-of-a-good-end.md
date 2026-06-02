@@ -10,6 +10,7 @@ mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_207_14.mp3"
 summary: "لا، الموت يكون في كل يوم على حد سواء، ولو كان للأيام مزية لكان يوم الإثنين أولى بها؛ لأنه اليوم الذي مات فيه النبي صلى الله عليه وعلى آله وسلم"
 lang: ar
 translation: true
+tags: [ibn-uthaymeen]
 mufti: "الشيخ ابن عثيمين رحمه الله"
 ---
 

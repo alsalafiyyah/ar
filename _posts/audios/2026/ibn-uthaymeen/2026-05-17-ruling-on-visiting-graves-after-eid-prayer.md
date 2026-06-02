@@ -10,6 +10,7 @@ mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_339_36.mp3"
 summary: "حكمه أنه لا أصل له من عمل السلف الصالح، واعتقاد أن ذلك سنة يجعله بدعة"
 lang: ar
 translation: true
+tags: [ibn-uthaymeen]
 mufti: "الشيخ ابن عثيمين رحمه الله"
 ---
 

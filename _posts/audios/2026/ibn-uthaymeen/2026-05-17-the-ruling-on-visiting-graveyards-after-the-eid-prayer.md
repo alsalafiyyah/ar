@@ -10,6 +10,7 @@ mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_216_23.mp3"
 summary: "هذا العمل بدعة لم يكن في عهد الرسول عليه الصلاة والسلام أن يعتاد زيارة القبور في يوم العيد"
 lang: ar
 translation: true
+tags: [ibn-uthaymeen]
 mufti: "الشيخ ابن عثيمين رحمه الله"
 ---
 

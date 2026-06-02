@@ -10,6 +10,7 @@ mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_307_15.mp3"
 summary: "الآذان عند ولادة المولود سنة. وأما الإقامة فحديثه ضعيف فليست بسنة، ولكن هذا الآذان يكون أول ما يسمع المولود"
 lang: ar
 translation: true
+tags: [ibn-uthaymeen]
 mufti: "الشيخ ابن عثيمين رحمه الله"
 ---
 

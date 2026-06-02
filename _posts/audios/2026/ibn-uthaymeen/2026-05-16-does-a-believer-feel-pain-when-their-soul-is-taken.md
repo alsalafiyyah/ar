@@ -10,6 +10,7 @@ mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_339_17.mp3"
 summary: "والنزع يعني نزع الروح من البدن شديد، لكنه يخف عن شخص ويشتد على آخر، وقد يشدد الله سبحانه وتعالى على الميت لذنوب ارتكبها"
 lang: ar
 translation: true
+tags: [ibn-uthaymeen]
 mufti: "الشيخ ابن عثيمين رحمه الله"
 ---
 

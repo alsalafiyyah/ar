@@ -10,6 +10,7 @@ mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/od_229_05.mp3"
 summary: "فالعنكبوت والحمامة لا صحة لذكرهما عند اختفاء النبي -صلى الله عليه وسلم- في غار ثور"
 lang: ar
 translation: true
+tags: [ibn-uthaymeen]
 mufti: "الشيخ ابن عثيمين رحمه الله"
 ---
 

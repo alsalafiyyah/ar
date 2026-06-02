@@ -10,6 +10,7 @@ mp3: "https://sounds.binothaimeen.net/storage/uploads/ftawamp3/Lw_207_14.mp3"
 summary: "عذاب القبر ثابت لكل من يستحقه سواء مات في يوم الجمعة أو في رمضان أو في أي وقت آخر"
 lang: ar
 translation: true
+tags: [ibn-uthaymeen]
 mufti: "الشيخ ابن عثيمين رحمه الله"
 ---
 
