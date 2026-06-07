@@ -3,7 +3,7 @@ layout: post
 publisher: alsalafiyyah@icloud.com
 date: 2026-06-07
 title: "من يقول أن الخروج المحذر منه هو الخروج المسلح"
-category: [الحكام، صوتيات]
+category: [صوتيات, الحكام]
 tags: [salih-ibn-fawzan]
 mp3: "https://audio.alfawzan.live/e-010.mp3"
 link: "https://alfawzan.live/content/14279"
