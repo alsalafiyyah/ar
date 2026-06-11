@@ -1,7 +1,7 @@
 ---
 layout: post
 publisher: alsalafiyyah@icloud.com
-date: 2026-05-19
+date: 2026-06-10
 title: "ثواب البدعة وعقابها"
 source: "فتاوى نور على الدرب الشريط رقم [29]"
 category: [صوتيات, النكاح]
