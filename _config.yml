@@ -30,6 +30,24 @@ footer_navigation:
   - title: "English"
     url: "https://alsalafiyyah.github.io/"
 
+external_links:
+  - name: "الشيخ عبد العزيز بن باز"
+    url: "https://binbaz.org.sa/"
+  - name: "الشيخ صالح بن فوزان الفوزان"
+    url: "https://alfawzan.live/"
+  - name: "الشيخ محمد بن صالح العثيمين"
+    url: "https://binothaimeen.net/"
+  - name: "الشيخ عبد الرزاق بن عبد المحسن البدر"
+    url: "https://www.al-badr.net/"
+  - name: "الشيخ مقبل بن هادي الوادعي"
+    url: "https://www.muqbel.net/"
+  - name: "الشيخ محمد ناصر الدين الألباني"
+    url: "https://www.al-albany.com/"
+  - name: "الشيخ صالح آل الشيخ"
+    url: "https://saleh.af.org.sa/"
+  - name: "الشيخ عبد المحسن بن حمد العباد"
+    url: "https://al-abbaad.com/"
+
 # Site Elements
 site_elements:
   published: "تاريخ النشر"
