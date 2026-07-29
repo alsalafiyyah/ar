@@ -90,6 +90,10 @@ site_elements:
   page_not_found_text: "الصفحة التي طلبتها غير موجودة"
   navigation: "روابط سريعة"
   links: "روابط"
+  contact_us: "اتصل بنا"
+  quick_links: "روابط سريعة"
+  important_links: "روابط مهمة"
+  follow_us: "تابعنا"
 
 # Build settings
 remote_theme: alsalafiyyah/alsalafiyyah.github.io
