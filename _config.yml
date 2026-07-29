@@ -94,6 +94,14 @@ site_elements:
   quick_links: "روابط سريعة"
   important_links: "روابط مهمة"
   follow_us: "تابعنا"
+  error_report: "نبه عن خطأ"
+  error_text: "الرسالة"
+  message: "الرسالة"
+  name: "الاسم"
+  email: "البريد الإلكتروني"
+  link_error: "عنوان الرابط"
+  submit: "إرسال"
+  cancel: "Cancel"
 
 # Build settings
 remote_theme: alsalafiyyah/alsalafiyyah.github.io
